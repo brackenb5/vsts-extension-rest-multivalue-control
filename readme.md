@@ -3,7 +3,7 @@
 
 This is an extension for Azure DevOps to load REST data into a multiview.
 
-https://marketplace.visualstudio.com/items?itemName=bracken-b5.vsts-extensions-rest-multivalue-control-dev
+https://marketplace.visualstudio.com/items?itemName=bracken-b5.vsts-extensions-rest-multivalue-control
 
 ![Work Item Form](img/form.png)
 
